@@ -52,6 +52,21 @@ public class Main {
 // - Names can also begin with $ and _
 // - Names are case-sensitive ("myVar" and "myvar" are different variables)
 // - Reserved words (like Java keywords, such as int or boolean) cannot be used as names
+
+
+// Java Type casting:
+// Java operators:
+// Java Strings:
+// Java Math:
+// Java Arrays:
+// Java ArrayList:
+// Java If-Else:
+// Java Switch:
+// Java Loops:
+// Java For Loop:
+// Java While Loop:
+// Java Do-While Loop:
+// Java Break and Continue:
     
   }
 }
