@@ -37,5 +37,14 @@ public class Main {
     // public class Main: This line declares a public class named Main. In Java, every application must have at least one class definition.
     // public static void main(String[] args): This line declares the main method, which is the entry point of any Java application. The main method must be declared as public and static.
     // System.out.println("Hello World"): This line prints the string "Hello World" to the console using the System.out.println() method.
+    
+    // String concatenation: The + operator is used to concatenate strings and variables. For example, "The value of a is " + a concatenates the string with the value of variable a.
+    
+    String name = "John"; // string variable
+    String greeting = "Hello, " + name + "!"; // string concatenation
+    System.out.println(greeting); // prints "Hello, John!"
+    
+    
+    
   }
 }
